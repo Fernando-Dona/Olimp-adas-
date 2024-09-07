@@ -1,5 +1,5 @@
 ```markdown
-# Aplicação de Pesquisa de Atletas
+# Aplicação de Pesquisa de Atletas Imersão
 
 ## Descrição
 Esta aplicação web permite pesquisar por atletas em um banco de dados. Ao digitar o nome de um atleta no campo de pesquisa, a aplicação exibe os resultados correspondentes, incluindo nome, descrição e um link para mais informações.
